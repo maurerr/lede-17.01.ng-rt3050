@@ -1,0 +1,2 @@
+#to unsplit the imagebuilder
+cat lede-imagebuilder-17.01-SNAPSHOT-ramips-rt305x.Linux-x86_64.tar.gz.part*  > lede-imagebuilder-17.01-SNAPSHOT-ramips-rt305x.Linux-x86_64.tar.xz
